@@ -1,4 +1,4 @@
 
 user 'userToChange', {
-  fullUserName = 'full user name - userToChange'
+  fullUserName = 'This full user name was changed'
 }

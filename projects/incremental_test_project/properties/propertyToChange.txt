@@ -1,1 +1,1 @@
-property value propertyToChange
+This property value was changed
